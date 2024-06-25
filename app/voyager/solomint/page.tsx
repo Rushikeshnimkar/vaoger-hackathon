@@ -104,7 +104,7 @@ const SoloMint = () => {
                     </div>
                     <div className=" mb-4">
                         <p className="text-gray-500">Current Price</p>
-                        <p className="flex text-2xl font-bold mt-2">1 MATIC &nbsp; <img src="/maticlogo.webp" className='w-[3%] h-[3%]' /></p>
+                        <p className="flex text-2xl font-bold mt-2">1 MATIC &nbsp; <img src="/zetalogo.png" className='w-[3%] h-[3%]' /></p>
                     </div>
                     <div className='flex gap-8 mt-10'>
                             <button className="bg-blue-500 text-white py-4 px-16 rounded  mb-2" onClick={handleMint}>

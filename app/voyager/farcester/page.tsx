@@ -45,7 +45,7 @@ function Profile() {
   return (
     <>
       {isAuthenticated ? (
-        <div>
+        <div className="text-black">
           <p>
             Hello, {displayName}! Your FID is {fid}.
           </p>
