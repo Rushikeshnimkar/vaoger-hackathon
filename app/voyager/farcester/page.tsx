@@ -10,7 +10,7 @@ const config = {
   relay: "https://relay.farcaster.xyz",
   rpcUrl: "https://mainnet.optimism.io",
   domain: "vaoger-hackathon.vercel.app",
-  siweUri: "https://vaoger-hackathon.vercel.app/",
+  siweUri: "https://vaoger-hackathon.vercel.app/voyager/farcester",
   provider: new providers.JsonRpcProvider(undefined, 10)
 };
 

@@ -16,7 +16,7 @@ const SoloMint = () => {
     const initialTime = 24 * 60 * 60;
     const [timeRemaining, setTimeRemaining] = useState(initialTime);
 
-    const contractAddress = "0xEf598661d2F2294147F95038CA68E3dDCe53eB93";
+    const contractAddress = "0xa5c3c7207b4362431bd02d0e02af3b8a73bb35ed";
     const contractABI = [
         {
             "inputs": [
