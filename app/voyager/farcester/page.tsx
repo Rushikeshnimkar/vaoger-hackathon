@@ -9,8 +9,8 @@ const config = {
   // RPC URL from a provider like Alchemy or Infura.
   relay: "https://relay.farcaster.xyz",
   rpcUrl: "https://mainnet.optimism.io",
-  domain: "voager-farchaster.vercel.app",
-  siweUri: "https://voager-farchaster.vercel.app/voyager/farcester",
+  domain: "vaoger-hackathon.vercel.app",
+  siweUri: "https://vaoger-hackathon.vercel.app/",
   provider: new providers.JsonRpcProvider(undefined, 10)
 };
 
